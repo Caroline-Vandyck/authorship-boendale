@@ -89137,6 +89137,7 @@
       <pos>VRB(finiteness=inf)</pos>
     </w>
   </l>
+<!--Start interpolation Eduwaert? n=517-->
   <l n="15238" tokens="Es hi ghetoghen al te hant" lemmas="zijn hij tijgen al te hand">
     <w>
       <form>Es</form>
@@ -93808,6 +93809,7 @@
       <pos>VRB(finiteness=pastpart)</pos>
     </w>
   </l>
+<!--end interpolation-->
   <l n="15406" tokens="Quam een man ende brachte hem mare" lemmas="komen een man en brengen hij mare">
     <w>
       <form>Quam</form>

@@ -14652,6 +14652,7 @@
       <pos>VRB(finiteness=fin,tense=pres)</pos>
     </w>
   </l>
+  <interpolation reason="BY5">
   <l n="517" tokens="Die coninc trac nu alte hant" lemmas="die koning trekken nu al+te hand">
     <w>
       <form>Die</form>
@@ -21460,6 +21461,7 @@
       <pos>VRB(finiteness=pastpart)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="761" tokens="Quam een wards man seere gerent" lemmas="komen een zijn+dat man zeer renten">
     <w>
       <form>Quam</form>

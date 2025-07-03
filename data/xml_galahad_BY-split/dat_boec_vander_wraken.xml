@@ -157347,6 +157347,7 @@
       <pos>VRB(finiteness=pastpart)</pos>
     </w>
   </l>
+  <interpolation reason="Jans teesteye">
   <l n="5622" tokens="Die hem wel bepeynsen soude" lemmas="die hij wel bepeinzen zullen">
     <w>
       <form>Die</form>
@@ -163454,6 +163455,7 @@
       <pos>VRB(finiteness=fin,tense=pres)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="5838" tokens="Des onne ons die hemelsche Vader" lemmas="des on ons die hemels vader">
     <w>
       <form>Des</form>

@@ -519969,6 +519969,7 @@
       <pos>AA(degree=pos,position=free)</pos>
     </w>
   </l>
+  <interpolation reason="Hoemen ene stat regeren sal">
   <l n="18858" tokens="DIe ene stat willen regeren" lemmas="die een stad willen regeren">
     <w>
       <form>DIe</form>
@@ -520420,6 +520421,7 @@
       <pos>NOU-C(number=sg)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="18876" tokens="HEren selen thoren rade" lemmas="heer zullen hethaar raad">
     <w>
       <form>HEren</form>
